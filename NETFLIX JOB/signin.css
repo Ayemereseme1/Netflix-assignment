@@ -1,0 +1,98 @@
+body{
+    background-image: url(image1/95eaf8f43b75d58122081002ebf31d61.jpg);
+}
+.home3{
+    width: 33rem;
+    height: 38rem;
+    background-color: black;
+    margin-left: 430px;
+    opacity: 0.7;
+}
+.signinsub{
+    display: flex;
+    justify-content: space-between;
+}
+.logosub{
+    color: red;
+    font-size: 3.5rem;
+    font-family: sans-serif;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.logosub a{
+    text-decoration: none;
+    color: red;
+}
+.signinsub1{
+    background-color: red;
+    color: white;
+    width: 7rem;
+    height: 2rem;
+    border: 0px;
+    margin-top: 3rem;
+    margin-right: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+.signin2{
+    margin-left: 3.5rem;
+    color: white;
+    font-family: sans-serif;
+}
+
+.signinemail{
+    width: 25rem;
+    height: 3.5rem;
+    margin-left: 3.5rem;
+    font-size: 20px;
+    border: 0px;
+    opacity: 0.4;
+    color: black;
+}
+
+.signinpassword{
+    width: 25rem;
+    height: 3.5rem;
+    margin-left: 3.5rem;
+    font-size: 20px;
+    margin-top: 1rem;
+    border: 0px;
+}
+
+.signinpage{
+    width: 25rem;
+    height: 3.5rem;
+    margin-left: 3.5rem;
+    font-size: 20px;
+    margin-top: 2rem;
+    background-color: red;
+    border: 0px;
+}
+
+.signinadd{
+    display: flex;
+    
+    color: white;
+}
+
+.n6{
+    margin-left: 3.5rem;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 5rem;
+    color: white;
+}
+.n7{
+    margin-left: 3.5rem;
+    font-family: sans-serif;
+    color: white;
+}
+
+.checkbox{
+    margin-left: 60px;
+}
+
+.needhelp{
+    margin-left: 200px;
+}
